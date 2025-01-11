@@ -75,6 +75,13 @@ This repository provides an **HR Analytics Dashboard** created using **Power BI*
 
 
 
+
+
+
+https://github.com/user-attachments/assets/2cad92e7-dd71-42c4-8ae7-1c9715cb1e55
+
+
+
 ---
 ## Project insights :
 
