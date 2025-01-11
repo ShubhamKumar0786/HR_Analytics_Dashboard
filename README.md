@@ -78,7 +78,19 @@ This repository provides an **HR Analytics Dashboard** created using **Power BI*
 ---
 ## Project insights :
 
-- 
+- Number of employee satisfaction in this job.
+- Number of active employes/Employee count.
+- Most employees work for 10 years.
+- There are more females in the department as compare to males and avg. salary is also high.
+- The monthly and hourly rate of R&D department is high compared to others.
+- Environmental satisfaction is good for business travelers who travel rarely but slightly worse for frequent travelers.
 
+---
 
+## Contact
 
+For any questions, issues, or suggestions, please feel free to open an issue on GitHub or contact me at 
+
+- 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
+- 📧 Email:shubhamkashyap9501@gmail.com
+- Linkedin :[Linkedin_link](https://www.linkedin.com/in/shubham9797/)
