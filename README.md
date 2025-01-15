@@ -100,4 +100,4 @@ For any questions, issues, or suggestions, please feel free to open an issue on 
 
 - 🌐 [GitHub Profile](https://github.com/ShubhamKumar0786https://github.com/ShubhamKumar0786)  
 - 📧 Email:shubhamkashyap9501@gmail.com
-- Linkedin :[Linkedin_link](https://www.linkedin.com/in/shubham9797/)
+- LinkedIn: [Linkedin_link](https://www.linkedin.com/in/shubham0786/)
